@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# Xcode personal workspace state
+xcuserdata/
+*.xcuserstate
+
+# Generated build output
+DerivedData/
+build/
+.build/
+*.xcarchive
